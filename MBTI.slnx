@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MBTI/MBTI.vcxproj" Id="b6f95aac-908a-433c-be5f-120bfc483d99" />
+</Solution>
